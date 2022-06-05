@@ -1,0 +1,82 @@
+############################################################################################
+# Suma de 3 parámetros y devuelve la suma de los 3
+
+#opcion 1
+
+
+suma = 3 + 20 + 8
+print(suma)
+
+#opcion 2
+
+valor1 = 15
+valor2 = 25
+valor3 = 36
+resultado = valor1 + valor2 + valor3 
+print(resultado)
+
+#opcion 3
+
+val1= float(input("ingrese un valor: "))
+val2= float(input("ingrese segundo valor: "))
+val3= float(input("ingrese ultimo valor: "))
+calculo= val1 + val2 + val3
+print(calculo)
+
+############################################################################################
+
+# Resta de 2 parámetros y devuelve la resta de los 2
+
+#opcion 1
+
+resta= 10 - 8
+print("el resultado de la resta es:" , resta)
+
+#opcion 2
+
+valor1= 25
+valor2=13
+resto= valor1 - valor2
+print("el resultado es:", resto)
+
+#opcion 3
+
+val1= int(input("ingrese un valor: "))
+val2= int(input("ingrese el valor a descontar: "))
+print("el resultado es:" , val1 - val2)
+
+
+############################################################################################
+
+# Producto de 4 parámetros y devuelve el producto de los 4
+
+#opcion 1
+
+v1=5
+v2=6
+v3=8
+v4=2
+print(v1*v2*v3*v4)
+
+#opcion 2
+
+producto= 10*5*2*3
+print("el producto es:", producto)
+
+#opcion 3
+
+val1= int(input("ingrese un valor: "))
+val2= int(input("ingrese otro valor: "))
+val3= int(input("ingrese un tercer valor: "))
+val4= int(input("ingrese el cuarto valor: "))
+print("el resultado es: " , val1*val2*val3*val4)
+
+
+############################################################################################
+
+# Imprimir 2 parámetros, texto y valor, devuelve la impresión de los parámetros anteriores
+
+valor= 10.15
+print("el ingreso es a las: ", valor)
+
+############################################################################################
