@@ -44,6 +44,20 @@ print("el resultado es:" , val1 - val2)
 
 # Producto de 4 parámetros y devuelve el producto de los 4
 
+v1=5
+v2=6
+v3=8
+v4=2
+print(v1*v2*v3*v4)
+
+producto= 10*5*2*3
+print("el producto es:", producto)
+
+val1= int(input("ingrese un valor: "))
+val2= int(input("ingrese otro valor: "))
+val3= int(input("ingrese un tercer valor: "))
+val4= int(input("ingrese el cuarto valor: "))
+print("el resultado es: " , val1*val2*val3*val4)
 
 
 ############################################################################################
