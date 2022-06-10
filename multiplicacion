@@ -1,2 +1,0 @@
-producto= 8*5*9*2
-print("el producto es:", producto)
